@@ -11,6 +11,16 @@ Open http://localhost:3000 to view it in the browser.
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
+# How to use Material-ui in our project
+1. npm i @material-ui/core
+2. npm i @material-ui/icons
+
+# How to use Firebase in our project
+1. npm install -g firebase-tools
+2. firebase login
+3. firebase init
+4. firebase deploy
+
 # npm test
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
