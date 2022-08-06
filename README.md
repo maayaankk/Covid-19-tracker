@@ -1,5 +1,6 @@
 ## Covid-19-tracker
 ## Link To My Project
+## Hosted on Firebase
 https://covid-19-tracker-56c78.web.app/
 
 ## Available Scripts
